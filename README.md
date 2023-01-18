@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## 🛠 Some technical skills: :
 ### Development tools
 <p>
-<a href="https://code.visualstudio.com" target="vscode"> <a href="" target=""> <img src="./img/devicon/vscode.svg" title="vscode" alt="vscode" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com" target="_blank"> <img src="./img/devicon/vscode.svg" title="vscode" alt="vscode" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://git-scm.com" target="git"> <img src="./img/devicon/git.svg" title="git" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://github.com" target="github"> <img src="./img/devicon/github.svg" title="github" alt="github" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.docker.com" target="docker"> <img src="./img/devicon/docker.svg" title="docker" alt="docker" 
