@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 💬 My profile in a nutshell:
 
-<p align="left"> <img src="./img/data_analyst.jpeg" width="350"/></p>
+<p align="left"> <img src="./img/data_analyst.jpeg" width="375"/></p>
 <p>&nbsp;</p>
 
 ## 🛠 Some technical skills:
