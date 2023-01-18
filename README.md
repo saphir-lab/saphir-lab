@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="./img/data_analyst.jpeg" width="400"/></p>
 <p>&nbsp;</p>
 
-## 🛠 Some technical skills: :
+## 🛠 Some technical skills:
 ### Development tools
 <p>
 <a href="https://code.visualstudio.com" target="vscode"> <img src="./img/devicon/vscode.svg" title="vscode" alt="vscode" width="40" height="40"/></a>&nbsp;&nbsp;
