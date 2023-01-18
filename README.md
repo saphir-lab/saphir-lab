@@ -41,6 +41,7 @@ width="40" height="40"/></a>&nbsp;&nbsp;
 width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://jupyter.org" target="jupyter"> <img src="./img/devicon/jupyter.svg" title="jupyter" alt="jupyter" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="flask"> <img src="./img/devicon/flask_wordmark.svg" title="flask" alt="flask" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://realpython.com/beautiful-soup-web-scraper-python/" target="BeautifulSoup"> <img src="./img/logo/BeautifulSoup_landscape.jpg" title="BeautifulSoup" alt="BeautifulSoup" width="80" height="40"/></a>&nbsp;&nbsp;
 </p>
 
 
@@ -57,7 +58,7 @@ width="40" height="40"/></a>&nbsp;&nbsp;
 </p>
 
 
-### Database
+### Databases
 <p>
 <a href="https://www.oracle.com/database/technologies/" target="oracle"> <img src="./img/devicon/oracle.svg" title="oracle" alt="oracle" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.microsoft.com/fr-be/sql-server/sql-server-downloads" target="microsoftsqlserver"> <img src="./img/devicon/microsoftsqlserver.svg" title="microsoftsqlserver" alt="microsoftsqlserver" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -76,6 +77,5 @@ width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.tableau.com" target="tableau"> <img src="./img/logo/tableau.png" title="tableau" alt="tableau" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://powerbi.microsoft.com/what-is-power-bi/" target="PowerBI"> <img src="./img/logo/PowerBI.png" title="PowerBI" alt="PowerBI" width="60" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.knime.com" target="knime"> <img src="./img/logo/knime.svg" title="knime" alt="knime" width="60" height="40"/></a>&nbsp;&nbsp;
-<a href="https://realpython.com/beautiful-soup-web-scraper-python/" target="BeautifulSoup"> <img src="./img/logo/BeautifulSoup_landscape.jpg" title="BeautifulSoup" alt="BeautifulSoup" width="80" height="40"/></a>&nbsp;&nbsp;
 <a href="https://regex101.com" target="regex"> <img src="./img/logo/regex_long.jpg" title="regex" alt="regex" width="60" height="40"/></a>&nbsp;&nbsp;
 </p>
