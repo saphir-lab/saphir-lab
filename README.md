@@ -41,6 +41,7 @@ width="40" height="40"/></a>&nbsp;&nbsp;
 width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://jupyter.org" target="jupyter"> <img src="./img/devicon/jupyter.svg" title="jupyter" alt="jupyter" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="flask"> <img src="./img/devicon/flask_wordmark.svg" title="flask" alt="flask" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://fastapi.tiangolo.com" target="fastapi"> <img src="./img/logo/fastapi.webp" title="fastapi" alt="fastapi" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://realpython.com/beautiful-soup-web-scraper-python/" target="BeautifulSoup"> <img src="./img/logo/BeautifulSoup_landscape.jpg" title="BeautifulSoup" alt="BeautifulSoup" width="80" height="40"/></a>&nbsp;&nbsp;
 </p>
 
