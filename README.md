@@ -89,3 +89,5 @@ https://github-profile-summary-cards.vercel.app/demo.html
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saphir-lab&theme=github)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saphir-lab&theme=github)
+
+![](https://komarev.com/ghpvc/?username=saphir-lab&style=for-the-badge)
