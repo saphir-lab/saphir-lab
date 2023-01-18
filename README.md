@@ -79,3 +79,13 @@ width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.knime.com" target="knime"> <img src="./img/logo/knime.svg" title="knime" alt="knime" width="60" height="40"/></a>&nbsp;&nbsp;
 <a href="https://regex101.com" target="regex"> <img src="./img/logo/regex_long.jpg" title="regex" alt="regex" width="60" height="40"/></a>&nbsp;&nbsp;
 </p>
+<p>&nbsp;</p>
+
+## 📈 Github Statistics
+<!--
+Visit following site to see possible vcard
+https://github-profile-summary-cards.vercel.app/demo.html
+-->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saphir-lab&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saphir-lab&theme=github)
