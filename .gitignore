@@ -1,2 +1,7 @@
+# Directories
+.*/
+
+# Files
 .*
-!/.gitignore
+!.gitignore
+test.py
